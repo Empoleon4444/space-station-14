@@ -48,8 +48,6 @@
   - type: BreathMask
   - type: IngestionBlocker
   - type: IdentityBlocker
-  - type: FlashImmunity
-  - type: EyeProtection
   - type: PhysicalComposition
     materialComposition:
       Steel: 200
