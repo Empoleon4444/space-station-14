@@ -37,7 +37,7 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingMaskEngineeringGas
-  name: welding gas mask
+  name: engineering gas mask
   description: A gas mask with built in engineering goggles. Looks like a skull, clearly designed by a nerd.
   components:
   - type: Sprite
