@@ -36,9 +36,9 @@
 
 - type: entity
   parent: ClothingMaskBase
-  id: ClothingMaskWeldingGas
+  id: ClothingMaskEngineeringGas
   name: welding gas mask
-  description: A gas mask with built in welding goggles and face shield. Looks like a skull, clearly designed by a nerd.
+  description: A gas mask with built in engineering goggles. Looks like a skull, clearly designed by a nerd.
   components:
   - type: Sprite
     sprite: Clothing/Mask/welding-gas.rsi
@@ -48,7 +48,6 @@
   - type: BreathMask
   - type: IngestionBlocker
   - type: IdentityBlocker
-  - type: FlashImmunity
   - type: EyeProtection
   - type: PhysicalComposition
     materialComposition:
