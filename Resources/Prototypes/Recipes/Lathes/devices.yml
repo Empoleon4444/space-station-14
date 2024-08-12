@@ -176,8 +176,8 @@
     Uranium: 150
 
 - type: latheRecipe
-  id: ClothingMaskWeldingGas
-  result: ClothingMaskWeldingGas
+  id: ClothingMaskEngineeringGas
+  result: ClothingMaskEngineeringGas
   completetime: 3
   materials:
     Steel: 600
